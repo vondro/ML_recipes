@@ -10,10 +10,10 @@ $ pip3 install -U sklearn
 > Possible source of problems - using pip for python2.7 to install libraries - these are not compatible with Python3.
 
 ## Iris
-graphwiz is required
+graphviz is required
 
 ```sh
-$ pip3 install -U graphwiz
+$ pip3 install -U graphviz
 ```
 
 - Download graphwiz for Windows: [link](https://www.graphviz.org/download/)

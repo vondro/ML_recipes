@@ -16,5 +16,5 @@ graphviz is required
 $ pip3 install -U graphviz
 ```
 
-- Download graphwiz for Windows: [link](https://www.graphviz.org/download/)
+- Download graphviz for Windows: [link](https://www.graphviz.org/download/)
 - Add to Windows PATH
